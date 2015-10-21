@@ -1,5 +1,7 @@
 "use strict";
-
+/**
+* ES6 Class inheritance
+**/
 
 class Square {
 	constructor (side) {

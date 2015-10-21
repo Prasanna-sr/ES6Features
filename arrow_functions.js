@@ -20,11 +20,11 @@ no.map(function(item, i) {
 });
 
 //ES6
-var no1 = no.map(v => v + 1)
+let no1 = no.map(v => v + 1)
 
-var no2  = no.map((v, i) => v + "," +  i)
+let no2  = no.map((v, i) => v + "," +  i)
 
-var no3 = no.map(v => {
+let no3 = no.map(v => {
 	if(v%10 === 0) {
 		return v/10;	
 	}

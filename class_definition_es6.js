@@ -1,3 +1,7 @@
+/**
+* ES6 Class definition
+* contains contructor, instance method and static method
+**/
 "use strict";
 
 class Shape {

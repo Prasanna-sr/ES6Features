@@ -1,3 +1,6 @@
+/**
+* ES6 Class with private properties and methods using module pattern
+**/
 "use strict";
 module.exports = _Shape;
 
